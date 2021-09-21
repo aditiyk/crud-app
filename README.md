@@ -1,10 +1,13 @@
-# crud-app
+# simple-crud-app
  
  C----------> *CREATE*
+ -----------------
  R----------> *READ*
+ ------------------
  U----------> *UPDATE*
+ ---------------------
  D----------> *DELETE*
- 
+ ------------------------
  The following app was built using JavaScript, Node.JS and MongoDB database.
  
  
